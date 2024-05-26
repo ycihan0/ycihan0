@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Cihan from Turkey,  Fullstack/Frontend developer</p>
+<p align="left">I'm Cihan from Turkey,  Fullstack developer</p>
 
 ###
 
